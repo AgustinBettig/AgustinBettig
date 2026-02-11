@@ -4,7 +4,7 @@
 
 📍 San Carlos Centro, Santa Fe, Argentina  
 agustinbettigyt@gmail.com | +54 9 3404 418576  
-🔗 [LinkedIn](http://www.linkedin.com/in/agustin-bettig/) · [WhatsApp](https://wa.me/5493404418576)
+🔗 [LinkedIn](https://www.linkedin.com/in/agustin-bettig/) · [WhatsApp](https://wa.me/5493404418576)
 
 ---
 
@@ -43,7 +43,7 @@ Developer con más de 8 años de experiencia combinando **software y automatizac
 
 - Desarrollo de soluciones backend en proyectos de transformación digital
 - Aprendizaje intensivo en buenas prácticas, arquitectura y trabajo en equipo
-- Lanzamiento y uso en producción del MVP de This Night, mi primer startup, con primeras implementaciones reales durante 2022
+- Lanzamiento y uso en producción del MVP de [This Night](https://www.thisnight.site), mi primer startup, con primeras implementaciones reales durante 2022
 
 ### 2023
 
@@ -64,14 +64,14 @@ Developer con más de 8 años de experiencia combinando **software y automatizac
 
 - Mantenimiento y actualizaciones de This Nigth y Soderia la Nueva
 - Desarollo e implementación de apliocacion mobile para clientes (this night)
-- Desarrollo de Sety (app de torneos de tenis y padel)
+- Desarrollo de [Sety](https://www.sety.pro)  app de torneos de tenis y padel)
 
 ### 2026
 
 - This Night — continuidad y mantenimiento
 - Mantenimiento — Soderia La Nueva
 - SETY — desarrollo y soporte
-- **DisponibleHoy** (disponiblehoy.com) — plataforma de compra y venta
+- [DisponibleHoy](https://www.disponiblehoy.com) — Desarrollo de plataforma para compra/venta
 - App en desarrollo — automatización de facturación vía webservice
 
 ---
@@ -100,7 +100,7 @@ Developer con más de 8 años de experiencia combinando **software y automatizac
 - **Ingeniería Electrónica** — UTN FRP, 1° y 2° año (2019–2021)
 - **Certified Tech Developer** — Digital House *(un año)*
 
-** 📚 Cursos:** IoT Masterclass · Python (visión por computadora) · Desarrollo Web (Laravel) · Sistemas de pedidos online ·Asistencia regular a Elemental English class · 
+📚 **Cursos:** IoT Masterclass · Python (visión por computadora) · Desarrollo Web (Laravel) · Sistemas de pedidos online ·Asistencia regular a Elemental English class · 
 
 ---
 
