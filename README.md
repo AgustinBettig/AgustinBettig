@@ -8,12 +8,12 @@ agustinbettigyt@gmail.com | +54 9 3404 418576
 
 ---
 
-##👋 Sobre mí
+## 👋 Sobre mí
 
 Developer con más de 8 años de experiencia combinando **software y automatización**. Especializado en Laravel, APIs e integraciones que conectan negocio con tecnología. Interesado en startups, SaaS, fintech y en transformar ideas en productos funcionales.
 ---
 
-##💼 Experiencia
+## 💼 Experiencia
 
 ### 2016 — 2018
 
@@ -76,7 +76,7 @@ Developer con más de 8 años de experiencia combinando **software y automatizac
 
 ---
 
-##🛠 Tecnologías
+## 🛠 Tecnologías
 
 | Backend | Frontend | Datos | DevOps / Otros |
 |---------|----------|-------|----------------|
@@ -86,7 +86,7 @@ Developer con más de 8 años de experiencia combinando **software y automatizac
 
 ---
 
-##🚀 Proyectos destacados
+## 🚀 Proyectos destacados
 
 - **This Night SRL Founder/startup builder** — Plataforma de gestion interna para eventos y discotecas, venta de productos, Qrs y validación de identidad
 - Automatizaciones e integraciones
@@ -94,17 +94,17 @@ Developer con más de 8 años de experiencia combinando **software y automatizac
 
 ---
 
-##🎓 Educación
+## 🎓 Educación
 
 - **Técnico Electromecánico** — EETP N°631 (2012–2018)
 - **Ingeniería Electrónica** — UTN FRP, 1° y 2° año (2019–2021)
 - **Certified Tech Developer** — Digital House *(un año)*
 
-**📚 Cursos:** IoT Masterclass · Python (visión por computadora) · Desarrollo Web (Laravel) · Sistemas de pedidos online ·Asistencia regular a Elemental English class · 
+** 📚 Cursos:** IoT Masterclass · Python (visión por computadora) · Desarrollo Web (Laravel) · Sistemas de pedidos online ·Asistencia regular a Elemental English class · 
 
 ---
 
 ## Otros
 
-- **🌎 Idiomas:** Español (nativo) · Inglés (A1/A2)
-- **💡 Perfil:** Orientado a producto, mentalidad emprendedora, resolutivo
+- ** 🌎 Idiomas:** Español (nativo) · Inglés (A1/A2)
+- ** 💡 Perfil:** Orientado a producto, mentalidad emprendedora, resolutivo
