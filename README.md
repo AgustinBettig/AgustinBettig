@@ -100,7 +100,7 @@ Developer con más de 8 años de experiencia combinando **software y automatizac
 - **Ingeniería Electrónica** — UTN FRP, 1° y 2° año (2019–2021)
 - **Certified Tech Developer** — Digital House *(un año)*
 
-📚 **Cursos:** IoT Masterclass · Python (visión por computadora) · Desarrollo Web (Laravel) · Sistemas de pedidos online ·Asistencia regular a Elemental English class · 
+📚 **Cursos:** IoT Masterclass · Python (visión por computadora) · Desarrollo Web (Laravel) · Sistemas de pedidos online · Asistencia regular a Elemental English class · 
 
 ---
 
