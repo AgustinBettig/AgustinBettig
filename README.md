@@ -1,6 +1,6 @@
 # Agustín Bettig
 
-**Full Stack Developer | Laravel • JavaScript • Sas • Entrepreneur**
+**Full Stack Developer | Laravel • JavaScript • Saas • Entrepreneur**
 
 📍 San Carlos Centro, Santa Fe, Argentina 🇦🇷
 
