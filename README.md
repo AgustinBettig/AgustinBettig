@@ -1,89 +1,110 @@
-<h1 align="center">Hi 👋, I'm Agustin Bettig</h1>
-<h3 align="center">Systems Engineering student at UTN FRRo, Rosario, Argentina <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Argentina_flag_icon.svg" alt="ARG flag" width="20" height="20" > </h3>
+# Agustín Bettig
 
-<br>
+**Full Stack Developer | Laravel • JavaScript • Sas • Entrepreneur**
 
-<p align="right"> <h3>Profile Views :</h3> <img src="https://komarev.com/ghpvc/?username=AgustinBettig&label=Profile%20views&color=68a355&style=for-the-badge"
-    alt="adam-pw" /> 
-  </p>
+📍 San Carlos Centro, Santa Fe, Argentina  
+agustinbettigyt@gmail.com | +54 9 3404 418576  
+🔗 [LinkedIn](http://www.linkedin.com/in/agustin-bettig/) · [WhatsApp](https://wa.me/5493404418576)
 
-<br>
+---
 
-<p><img align="right" src="https://github.com/AgustinBettig/AgustinBettig/blob/main/Animation.gif" alt="adam-pw" /></p>
+##👋 Sobre mí
 
+Developer con más de 8 años de experiencia combinando **software y automatización**. Especializado en Laravel, APIs e integraciones que conectan negocio con tecnología. Interesado en startups, SaaS, fintech y en transformar ideas en productos funcionales.
+---
 
-- 🌱 I’m currently learning Web Development and other programming languages
+##💼 Experiencia
 
-- 📫 How to reach me **agustinbettigyt@gmail.com**
+### 2016 — 2018
 
-<br>
+**Automatización Industrial — Ingeniería San Carlos SRL**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.facebook.com/people/Martin-Sola/100009640339462/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-      alt="Agustin Bettig" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/martinsola1" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="Agustin" height="30" width="40" /></a>
-</p>
+- Programación de PLC y pantallas HMI
+- Planos eléctricos, armado de tableros y sistemas de control industrial
+- Proyectos en equipo en ambiente industrial
 
-<br>
+### 2021 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-    <a href="https://visualstudio.microsoft.com/vs/features/net-development/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="40" height="40" />
-    </a>
-    <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" />
-    </a>
-    <a href="https://www.java.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
-    </a>
-    <a href="https://www.php.net/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40" />
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
-    </a>
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40" />
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" />
-    </a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" />
-    </a>
-    <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="SASS" width="40" height="40" />
-    </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
-    </a> 
-    <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer" >
-        <img src="https://static.cdnlogo.com/logos/m/21/microsoft-sql-server.svg" alt="SQL Server" width="40" height="40" style="color: white" />
-    </a> 
-</p>
+**Desarrollador Full Stack — Freelance**
 
-<br>
+- Plataformas web para negocios: e-commerce, sistemas de pedidos, dashboards administrativos
+- Stack: Laravel, JavaScript, APIs REST, deploy en DigitalOcean
+- Soluciones IoT y automatización para clientes finales
 
-<h3>Statistical Data :</h3>
-<p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=AgustinBettig&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="adam-pw" 
-    bg_color=#808080/></p>
+**Desarrollador & Mantenimiento Web — Plataforma Gastronómica**
 
-<br>
+- Sistema completo en Laravel + JavaScript desarrollado en ~3 meses
+- Mantenimiento, optimización de performance y nuevas features en producción
+- Alta disponibilidad y estabilidad del servicio
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AgustinBettig&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-    alt="AgustinBettig" /></p>
+### 2022
 
-<br>
+**Backend Developer — Cubiq - Digital Transformation Lab**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AgustinBettig&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="AgustinBettig" /></p>
+- Desarrollo de soluciones backend en proyectos de transformación digital
+- Aprendizaje intensivo en buenas prácticas, arquitectura y trabajo en equipo
+- Lanzamiento y uso en producción del MVP de This Night, mi primer startup, con primeras implementaciones reales durante 2022
 
-<br>
+### 2023
 
-[AgustinBettig](https://github.com/AgustinBettig)
+**This Night — Sistema de tarjetas para discotecas y eventos (mi primer Start Up)**
+
+- Salida de Cubiq para dedicación full-time al proyecto
+- App para control de ventas, stock y cajas en eventos nocturnos
+- Constitución como empresa y adquisición de ~5 clientes
+- Creación de CRM y sistema interno para Soderia la Nueva (Neuquen capital), Aguas Nico fabrica de agua y soda envasada
+
+### 2024
+
+- Mantenimiento y actualizaciones de this night + ventas
+- Mantenimiento de sistema Soderia la Nueva
+- Desarrollo de CRM para Proedge Agency
+
+### 2025
+
+- Mantenimiento y actualizaciones de This Nigth y Soderia la Nueva
+- Desarollo e implementación de apliocacion mobile para clientes (this night)
+- Desarrollo de Sety (app de torneos de tenis y padel)
+
+### 2026
+
+- This Night — continuidad y mantenimiento
+- Mantenimiento — Soderia La Nueva
+- SETY — desarrollo y soporte
+- **DisponibleHoy** (disponiblehoy.com) — plataforma de compra y venta
+- App en desarrollo — automatización de facturación vía webservice
+
+---
+
+##🛠 Tecnologías
+
+| Backend | Frontend | Datos | DevOps / Otros |
+|---------|----------|-------|----------------|
+| **Laravel**, **PHP** | **JavaScript**, **jQuery** | MySQL, **PostgreSQL**, MongoDB | Docker, Git, Linux |
+| Python, Flask, OpenCV | HTML5, CSS3, Tailwind, Bootstrap | | DigitalOcean, Vite |
+| APIs REST | Flutter (prototipos) | | IoT (Arduino, MQTT) |
+
+---
+
+##🚀 Proyectos destacados
+
+- **This Night SRL Founder/startup builder** — Plataforma de gestion interna para eventos y discotecas, venta de productos, Qrs y validación de identidad
+- Automatizaciones e integraciones
+- Productos SaaS y marketplaces en desarrollo
+
+---
+
+##🎓 Educación
+
+- **Técnico Electromecánico** — EETP N°631 (2012–2018)
+- **Ingeniería Electrónica** — UTN FRP, 1° y 2° año (2019–2021)
+- **Certified Tech Developer** — Digital House *(un año)*
+
+**📚 Cursos:** IoT Masterclass · Python (visión por computadora) · Desarrollo Web (Laravel) · Sistemas de pedidos online ·Asistencia regular a Elemental English class · 
+
+---
+
+## Otros
+
+- **🌎 Idiomas:** Español (nativo) · Inglés (A1/A2)
+- **💡 Perfil:** Orientado a producto, mentalidad emprendedora, resolutivo
