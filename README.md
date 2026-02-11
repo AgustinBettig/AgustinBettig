@@ -84,6 +84,10 @@ Developer con más de 8 años de experiencia combinando **software y automatizac
 | Python, Flask, OpenCV | HTML5, CSS3, Tailwind, Bootstrap | | DigitalOcean, Vite |
 | APIs REST | Flutter (prototipos) | | IoT (Arduino, MQTT) |
 
+- Integraciones realizadas con **Amazon S3** y **Cloudflare R2** para gestión y almacenamiento de imágenes
+- Implementación de **Mercado Pago Checkout Pro** para cobros online
+- Web 2.0 con autenticación usando **Firebase Auth**
+
 ---
 
 ## 🚀 Proyectos destacados
