@@ -87,6 +87,7 @@ Developer con más de 8 años de experiencia combinando **software y automatizac
 - Integraciones realizadas con **Amazon S3** y **Cloudflare R2** para gestión y almacenamiento de imágenes
 - Implementación de **Mercado Pago Checkout Pro** para cobros online
 - Web 2.0 con autenticación usando **Firebase Auth**
+- Integración con **ARCA / AFIP** Web Services para facturación electrónica, validación fiscal y automatización tributaria
 
 ---
 
