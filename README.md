@@ -2,9 +2,8 @@
 
 **Full Stack Developer | Laravel • JavaScript • Sas • Entrepreneur**
 
-📍 San Carlos Centro, Santa Fe, Argentina  
-agustinbettigyt@gmail.com | +54 9 3404 418576  
-🔗 [LinkedIn](https://www.linkedin.com/in/agustin-bettig/) · [WhatsApp](https://wa.me/5493404418576)
+📍 San Carlos Centro, Santa Fe, Argentina 🇦🇷
+🔗 [LinkedIn](https://www.linkedin.com/in/agustin-bettig/) 
 
 ---
 
