@@ -3,6 +3,7 @@
 **Full Stack Developer | Laravel • JavaScript • Sas • Entrepreneur**
 
 📍 San Carlos Centro, Santa Fe, Argentina 🇦🇷
+
 🔗 [LinkedIn](https://www.linkedin.com/in/agustin-bettig/) 
 
 ---
