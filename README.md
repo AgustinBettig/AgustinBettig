@@ -106,5 +106,5 @@ Developer con más de 8 años de experiencia combinando **software y automatizac
 
 ## Otros
 
-- 🌎 **Idiomas: ** Español (nativo) · Inglés (A1/A2)
-- 💡 **Perfil: ** Orientado a producto, mentalidad emprendedora, resolutivo
+- 🌎 **Idiomas:** Español (nativo) · Inglés (A1/A2)
+- 💡 **Perfil:** Orientado a producto, mentalidad emprendedora, resolutivo
